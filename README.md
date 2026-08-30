@@ -331,7 +331,7 @@ Orders: 1
 
 ## Team
 
-| Name | Registration No. |
+| Name 
 | --- | --- |
 | Aryalekshmi S 
 | Lavanya Singh 
