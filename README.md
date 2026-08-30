@@ -329,10 +329,10 @@ Orders: 1
 
 ## Team
 
-| Name 
+Name 
 
-Aryalekshmi S 
-Lavanya Singh 
+Aryalekshmi S ,
+Lavanya Singh ,
 Edamalapati Saranya 
 
 **Institution:** School of Computer Science and Engineering (SCOPE), VIT Vellore
