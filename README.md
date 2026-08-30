@@ -4,9 +4,7 @@ A console-based Java order and payment management application, built as an end-t
 exercise: version control with Git Flow, build automation with Maven, unit testing with JUnit 5,
 continuous integration with Jenkins, containerisation with Docker, and cloud deployment on AWS EC2.
 
-**Course:** MACSE639 — DevOps (ETH + ELA) · Winter Semester 2025–26
-**Institution:** School of Computer Science and Engineering (SCOPE), VIT Vellore
-**Faculty:** Sudhakar P B · **Group 10, Set B**
+
 
 ---
 
@@ -332,9 +330,13 @@ Orders: 1
 ## Team
 
 | Name 
-| --- | --- |
-| Aryalekshmi S 
-| Lavanya Singh 
-| Edamalapati Saranya 
 
-Submitted 30 March 2026.
+Aryalekshmi S 
+Lavanya Singh 
+Edamalapati Saranya 
+
+**Institution:** School of Computer Science and Engineering (SCOPE), VIT Vellore
+**Faculty:** Sudhakar P B ·
+
+
+
